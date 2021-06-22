@@ -1,4 +1,4 @@
-# FlaskIntro [Task Master](https://flaskcrudyapptutorial.herokuapp.com/)
+# [Task Master](https://flaskcrudyapptutorial.herokuapp.com/)
 A Task Master Webapp deployed on Heroku, written in Python using Flask, with a backend in SQLAlchemy      
 A basic CRUD app inspired from [freeCodeCamp](https://www.youtube.com/watch?v=Z1RJmh_OqeA&t=128s)       
 
