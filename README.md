@@ -1,7 +1,6 @@
-# FlaskIntro 
-A Task Master Webapp deployed on Heroku, written in Python using Flask, with a backend in SQLAlchemy
-A basic CRUD app inspired from [freeCodeCamp](https://www.youtube.com/watch?v=Z1RJmh_OqeA&t=128s)      
-[Link](https://flaskcrudyapptutorial.herokuapp.com/)    
+# FlaskIntro [Task Master](https://flaskcrudyapptutorial.herokuapp.com/)
+A Task Master Webapp deployed on Heroku, written in Python using Flask, with a backend in SQLAlchemy      
+A basic CRUD app inspired from [freeCodeCamp](https://www.youtube.com/watch?v=Z1RJmh_OqeA&t=128s)       
 
 # What I Learned  
 * Python: Understood how to use POST and GET methods, and created a database to store data
